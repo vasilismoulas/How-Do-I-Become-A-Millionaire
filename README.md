@@ -1,3 +1,3 @@
 # How-Do-I-Become-A-Millionaire
 
-Big data management advanced with Apache Hadoop software library
+Big data management enhanced with Apache Hadoop software library
